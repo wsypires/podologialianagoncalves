@@ -1,0 +1,6 @@
+{
+  "name": "Clínica de Podologia Liana Gonçalves",
+  "description": "Podologia Clínica em Campo Grande - MS. Cuidado especializado e protocolos médicos para a saúde dos seus pés.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
